@@ -1,0 +1,32 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "options": ["Berlin", "London", "Paris", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "prompt": "Which language is used for web apps?",
+    "options": ["Python", "JavaScript", "C#", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "prompt": "2 + 2 * 2 = ?",
+    "options": ["6", "8", "4", "10"],
+    "answer": "6"
+  },
+   {
+    "prompt": "Who developed the Python language?",
+    "options": ["Dennis Ritchie", "Guido van Rossum", "James Gosling", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "prompt": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Utility"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "prompt": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  }
+]
